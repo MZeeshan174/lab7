@@ -1,0 +1,6 @@
+Console.WriteLine("List f house hold items");
+Console.WriteLine("1. table");
+Console.WriteLine("2. Fan");
+Console.WriteLine("3. Fan");
+Console.WriteLine("4. Chair");
+Console.WriteLine("5. Bag");
