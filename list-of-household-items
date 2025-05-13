@@ -7,4 +7,5 @@ Console.WriteLine("5. Bag");
 
 
 
-Console.WriteLine("6. Water-Tank");
+Console.WriteLine("7. Water-Tank");
+Console.WriteLine("6. Garbage-Bag");
