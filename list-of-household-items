@@ -4,3 +4,7 @@ Console.WriteLine("2. Fan");
 Console.WriteLine("3. Fan");
 Console.WriteLine("4. Chair");
 Console.WriteLine("5. Bag");
+
+
+
+Console.WriteLine("6. Water-Tank");
